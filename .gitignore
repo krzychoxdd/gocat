@@ -1,0 +1,7 @@
+src/cmd/for_development.go
+.env
+public/
+public/*
+volumes/
+volumes/*
+.idea
